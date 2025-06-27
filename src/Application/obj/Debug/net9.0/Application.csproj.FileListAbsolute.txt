@@ -1,0 +1,90 @@
+C:\estudo\03devzao\src\Application\bin\Debug\net9.0\Application.deps.json
+C:\estudo\03devzao\src\Application\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao\src\Application\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao\src\Application\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao\src\Application\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\Application.dll
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\refint\Application.dll
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\Application.pdb
+C:\estudo\03devzao\src\Application\obj\Debug\net9.0\ref\Application.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\bin\Debug\net9.0\Application.deps.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\Application.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\refint\Application.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\Application\obj\Debug\net9.0\ref\Application.dll
+C:\estudo\03devzao - só falta o front\src\Application\bin\Debug\net9.0\Application.deps.json
+C:\estudo\03devzao - só falta o front\src\Application\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - só falta o front\src\Application\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - só falta o front\src\Application\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front\src\Application\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\Application.dll
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\refint\Application.dll
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - só falta o front\src\Application\obj\Debug\net9.0\ref\Application.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Application\bin\Debug\net9.0\Application.deps.json
+C:\estudo\03devzao - só falta o front - Copia\src\Application\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Application\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\Application\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Application\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\Application.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\refint\Application.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\Application\obj\Debug\net9.0\ref\Application.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\bin\Debug\net9.0\Application.deps.json
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\Application.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\refint\Application.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\Application\obj\Debug\net9.0\ref\Application.dll
+C:\estudo\devzao\src\Application\bin\Debug\net9.0\Application.deps.json
+C:\estudo\devzao\src\Application\bin\Debug\net9.0\Application.dll
+C:\estudo\devzao\src\Application\bin\Debug\net9.0\Application.pdb
+C:\estudo\devzao\src\Application\bin\Debug\net9.0\Core.dll
+C:\estudo\devzao\src\Application\bin\Debug\net9.0\Core.pdb
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.dll
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\refint\Application.dll
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.pdb
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\ref\Application.dll

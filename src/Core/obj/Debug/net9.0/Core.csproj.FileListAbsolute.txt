@@ -1,0 +1,66 @@
+C:\estudo\03devzao\src\Core\bin\Debug\net9.0\Core.deps.json
+C:\estudo\03devzao\src\Core\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao\src\Core\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao\src\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao\src\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\estudo\03devzao\src\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\estudo\03devzao\src\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao\src\Core\obj\Debug\net9.0\Core.dll
+C:\estudo\03devzao\src\Core\obj\Debug\net9.0\refint\Core.dll
+C:\estudo\03devzao\src\Core\obj\Debug\net9.0\Core.pdb
+C:\estudo\03devzao\src\Core\obj\Debug\net9.0\ref\Core.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\bin\Debug\net9.0\Core.deps.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\obj\Debug\net9.0\Core.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\obj\Debug\net9.0\refint\Core.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\obj\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\Core\obj\Debug\net9.0\ref\Core.dll
+C:\estudo\03devzao - só falta o front\src\Core\bin\Debug\net9.0\Core.deps.json
+C:\estudo\03devzao - só falta o front\src\Core\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front\src\Core\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front\src\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - só falta o front\src\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\estudo\03devzao - só falta o front\src\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\estudo\03devzao - só falta o front\src\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - só falta o front\src\Core\obj\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front\src\Core\obj\Debug\net9.0\refint\Core.dll
+C:\estudo\03devzao - só falta o front\src\Core\obj\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front\src\Core\obj\Debug\net9.0\ref\Core.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Core\bin\Debug\net9.0\Core.deps.json
+C:\estudo\03devzao - só falta o front - Copia\src\Core\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Core\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - só falta o front - Copia\src\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\estudo\03devzao - só falta o front - Copia\src\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\estudo\03devzao - só falta o front - Copia\src\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - só falta o front - Copia\src\Core\obj\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Core\obj\Debug\net9.0\refint\Core.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Core\obj\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\Core\obj\Debug\net9.0\ref\Core.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\bin\Debug\net9.0\Core.deps.json
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\obj\Debug\net9.0\Core.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\obj\Debug\net9.0\refint\Core.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\obj\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\Core\obj\Debug\net9.0\ref\Core.dll
+C:\estudo\devzao\src\Core\bin\Debug\net9.0\Core.deps.json
+C:\estudo\devzao\src\Core\bin\Debug\net9.0\Core.dll
+C:\estudo\devzao\src\Core\bin\Debug\net9.0\Core.pdb
+C:\estudo\devzao\src\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\devzao\src\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\estudo\devzao\src\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\estudo\devzao\src\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\estudo\devzao\src\Core\obj\Debug\net9.0\Core.dll
+C:\estudo\devzao\src\Core\obj\Debug\net9.0\refint\Core.dll
+C:\estudo\devzao\src\Core\obj\Debug\net9.0\Core.pdb
+C:\estudo\devzao\src\Core\obj\Debug\net9.0\ref\Core.dll

@@ -1,0 +1,114 @@
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\estudo\03devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\estudo\03devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao\src\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao\src\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao\src\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao\src\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\estudo\03devzao\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\estudo\03devzao - só falta o front\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\estudo\03devzao - só falta o front\src\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\estudo\03devzao - só falta o front\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - só falta o front\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - só falta o front\src\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - só falta o front\src\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front\src\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - só falta o front\src\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\estudo\03devzao - só falta o front\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\estudo\03devzao - só falta o front - Copia\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\estudo\devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\estudo\devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\estudo\devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\devzao\src\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\estudo\devzao\src\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\estudo\devzao\src\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\estudo\devzao\src\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

@@ -1,0 +1,119 @@
+@model WebApp.Controllers.ProdutoDto
+
+@{
+    ViewData["Title"] = "Detalhes do Produto";
+}
+
+<div class="container">
+    <div class="row mb-4">
+        <div class="col">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a asp-action="Index">Produtos</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">@Model.Nome</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h4 class="mb-0">
+                            <i class="fas fa-box-open me-2"></i>@Model.Nome
+                        </h4>
+                        <div>
+                            <span class="badge @(Model.QuantidadeEmEstoque > 0 ? "bg-success" : "bg-danger") fs-6">
+                                @(Model.QuantidadeEmEstoque > 0 ? "Em estoque" : "Fora de estoque")
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="row mb-4">
+                        <div class="col-md-4 fw-bold">Descrição:</div>
+                        <div class="col-md-8">@Model.Descricao</div>
+                    </div>
+                    <div class="row mb-4">
+                        <div class="col-md-4 fw-bold">Preço:</div>
+                        <div class="col-md-8">@Model.Preco.ToString("C2")</div>
+                    </div>
+                    <div class="row mb-4">
+                        <div class="col-md-4 fw-bold">Quantidade em Estoque:</div>
+                        <div class="col-md-8">@Model.QuantidadeEmEstoque unidades</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 fw-bold">ID do Produto:</div>
+                        <div class="col-md-8">@Model.Id</div>
+                    </div>
+                </div>
+                <div class="card-footer bg-light">
+                    <div class="d-flex justify-content-between">
+                        <a asp-action="Index" class="btn btn-outline-secondary">
+                            <i class="fas fa-arrow-left me-1"></i> Voltar para a lista
+                        </a>
+                        <div>
+                            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning text-white">
+                                <i class="fas fa-edit me-1"></i> Editar
+                            </a>
+                            <button type="button" class="btn btn-danger ms-2" data-bs-toggle="modal" data-bs-target="#deleteModal" data-bs-id="@Model.Id" data-bs-nome="@Model.Nome">
+                                <i class="fas fa-trash-alt me-1"></i> Excluir
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal de Confirmação de Exclusão -->
+<div class="modal fade" id="deleteModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-danger text-white">
+                <h5 class="modal-title" id="deleteModalLabel">Confirmar Exclusão</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Fechar"></button>
+            </div>
+            <div class="modal-body">
+                <p>Tem certeza que deseja excluir o produto <strong id="produtoNome"></strong>?</p>
+                <p class="text-danger">Esta ação não pode ser desfeita.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                    <i class="fas fa-times me-1"></i> Cancelar
+                </button>
+                <form id="deleteForm" method="post" class="d-inline">
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fas fa-trash-alt me-1"></i> Excluir
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Configura o modal de exclusão
+        document.addEventListener('DOMContentLoaded', function() {
+            var deleteModal = document.getElementById('deleteModal');
+            if (deleteModal) {
+                deleteModal.addEventListener('show.bs.modal', function (event) {
+                    var button = event.relatedTarget;
+                    var id = button.getAttribute('data-bs-id');
+                    var nome = button.getAttribute('data-bs-nome');
+                    
+                    var modalTitle = deleteModal.querySelector('.modal-title');
+                    var produtoNome = deleteModal.querySelector('#produtoNome');
+                    var form = deleteModal.querySelector('form');
+                    
+                    produtoNome.textContent = nome;
+                    form.action = '/Produtos/Delete/' + id;
+                });
+            }
+        });
+    </script>
+}

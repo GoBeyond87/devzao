@@ -1,0 +1,69 @@
+@model WebApp.Controllers.ProdutoDto
+
+@{
+    ViewData["Title"] = "Excluir Produto";
+}
+
+<div class="container">
+    <div class="row mb-4">
+        <div class="col">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a asp-action="Index">Produtos</a></li>
+                    <li class="breadcrumb-item"><a asp-action="Details" asp-route-id="@Model.Id">@Model.Nome</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Excluir</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card border-danger">
+                <div class="card-header bg-danger text-white">
+                    <h4 class="mb-0">
+                        <i class="fas fa-exclamation-triangle me-2"></i>Confirmar Exclusão
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <div class="alert alert-warning" role="alert">
+                        <h5 class="alert-heading">Atenção!</h5>
+                        <p class="mb-0">Você está prestes a excluir permanentemente o produto <strong>@Model.Nome</strong>. Esta ação não pode ser desfeita.</p>
+                    </div>
+
+                    <h5 class="mb-3">Detalhes do Produto:</h5>
+                    <dl class="row">
+                        <dt class="col-sm-4">Nome:</dt>
+                        <dd class="col-sm-8">@Model.Nome</dd>
+
+                        <dt class="col-sm-4">Descrição:</dt>
+                        <dd class="col-sm-8">@(string.IsNullOrEmpty(Model.Descricao) ? "Nenhuma descrição fornecida" : Model.Descricao)</dd>
+
+                        <dt class="col-sm-4">Preço:</dt>
+                        <dd class="col-sm-8">@Model.Preco.ToString("C2")</dd>
+
+                        <dt class="col-sm-4">Quantidade em Estoque:</dt>
+                        <dd class="col-sm-8">@Model.QuantidadeEmEstoque unidade(s)</dd>
+                    </dl>
+
+                    <form asp-action="Delete" method="post" class="mt-4">
+                        <input type="hidden" name="id" value="@Model.Id" />
+                        
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a asp-action="Details" asp-route-id="@Model.Id" class="btn btn-outline-secondary me-md-2">
+                                <i class="fas fa-arrow-left me-1"></i> Voltar para os detalhes
+                            </a>
+                            <button type="submit" class="btn btn-danger">
+                                <i class="fas fa-trash-alt me-1"></i> Confirmar Exclusão
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

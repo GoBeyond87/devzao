@@ -1,0 +1,40 @@
+____________________________________
+deu ruim Docker
+docker stop $(docker ps -aq)
+docker rm $(docker ps -aq)
+docker network prune -f
+docker-compose up -d
+____________________________________
+ok - dotnet
+ok - api rest
+ok - testes unitarius
+ok - redis
+Kafka
+sql - ddl dml
+arquitetura clean ddd/solid
+____________________________________
+HTTPS: https://localhost:7001
+HTTP: http://localhost:7000
+HTTP: http://localhost:7000/swagger/v1/swagger.json
+____________________________________
+docker-compose down -v >>> Para e remove contêineres, redes e volumes
+
+____________________________________
+http://localhost:5000/
+dotnet clean
+dotnet restore
+dotnet build
+dotnet run
+dotnet run --project src/WebApp
+____________________________________
+>>> Abra o Docker
+docker-compose down
+dotnet clean
+dotnet restore
+docker-compose up -d
+docker-compose ps
+dotnet build
+dotnet test
+dotnet run --project src/WebApi
+>>> outro terminal
+dotnet run --project src/WebApp

@@ -1,0 +1,1222 @@
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\appsettings.json
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\WebApi.staticwebassets.endpoints.json
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\WebApi.exe
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\WebApi.deps.json
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\WebApi.runtimeconfig.json
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\AutoMapper.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Azure.Core.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Humanizer.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.csproj.AssemblyReference.cache
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfoInputs.cache
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfo.cs
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\scopedcss\bundle\WebApi.styles.css
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.csproj.Up2Date
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\refint\WebApi.dll
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
+C:\estudo\03devzao\src\WebApi\obj\Debug\net9.0\ref\WebApi.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\estudo\03devzao\src\WebApi\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\appsettings.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\WebApi.staticwebassets.endpoints.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\WebApi.exe
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\WebApi.deps.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\WebApi.runtimeconfig.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\AutoMapper.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Azure.Core.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Confluent.Kafka.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Humanizer.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-arm64\native\librdkafka.so
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\librdkafka.so
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcurl.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafka.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\msvcp140.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\vcruntime140.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zlib1.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zstd.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcurl.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafka.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libssl-3.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\msvcp140.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\vcruntime140.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zlib1.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zstd.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.csproj.AssemblyReference.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfoInputs.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfo.cs
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\scopedcss\bundle\WebApi.styles.css
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.csproj.Up2Date
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\refint\WebApi.dll
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
+C:\estudo\03devzao - backup sem kafka - Copia\src\WebApi\obj\Debug\net9.0\ref\WebApi.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\appsettings.json
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\WebApi.staticwebassets.endpoints.json
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\WebApi.exe
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\WebApi.deps.json
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\WebApi.runtimeconfig.json
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\AutoMapper.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Azure.Core.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Confluent.Kafka.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Humanizer.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\linux-arm64\native\librdkafka.so
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\librdkafka.so
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcurl.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafka.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\msvcp140.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\vcruntime140.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zlib1.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zstd.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcurl.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafka.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libssl-3.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\msvcp140.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\vcruntime140.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zlib1.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zstd.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - só falta o front\src\WebApi\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.csproj.AssemblyReference.cache
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfoInputs.cache
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfo.cs
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\scopedcss\bundle\WebApi.styles.css
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.csproj.Up2Date
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\refint\WebApi.dll
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
+C:\estudo\03devzao - só falta o front\src\WebApi\obj\Debug\net9.0\ref\WebApi.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\appsettings.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.staticwebassets.endpoints.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.exe
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.deps.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.runtimeconfig.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\AutoMapper.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Azure.Core.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Confluent.Kafka.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Humanizer.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-arm64\native\librdkafka.so
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\librdkafka.so
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcurl.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafka.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\msvcp140.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\vcruntime140.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zlib1.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zstd.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcurl.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafka.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libssl-3.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\msvcp140.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\vcruntime140.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zlib1.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zstd.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.csproj.AssemblyReference.cache
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfoInputs.cache
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfo.cs
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\scopedcss\bundle\WebApi.styles.css
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.csproj.Up2Date
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\refint\WebApi.dll
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
+C:\estudo\03devzao - só falta o front - Copia\src\WebApi\obj\Debug\net9.0\ref\WebApi.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.staticwebassets.endpoints.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\appsettings.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.exe
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.deps.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.runtimeconfig.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\AutoMapper.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Azure.Core.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Confluent.Kafka.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Humanizer.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-arm64\native\librdkafka.so
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\librdkafka.so
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcurl.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafka.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\msvcp140.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\vcruntime140.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zlib1.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zstd.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcurl.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafka.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libssl-3.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\msvcp140.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\vcruntime140.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zlib1.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zstd.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Application.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Core.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Application.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\bin\Debug\net9.0\Core.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.csproj.AssemblyReference.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfoInputs.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfo.cs
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\scopedcss\bundle\WebApi.styles.css
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.csproj.Up2Date
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\refint\WebApi.dll
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.pdb
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
+C:\estudo\03devzao - melhorar o front - Copia\src\WebApi\obj\Debug\net9.0\ref\WebApi.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\appsettings.json
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\WebApi.staticwebassets.endpoints.json
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\WebApi.exe
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\WebApi.deps.json
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\WebApi.runtimeconfig.json
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\WebApi.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\WebApi.pdb
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\AutoMapper.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Azure.Core.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Confluent.Kafka.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Humanizer.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\linux-arm64\native\librdkafka.so
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\linux-x64\native\librdkafka.so
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libcurl.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafka.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\msvcp140.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\vcruntime140.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zlib1.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\zstd.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libcurl.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafka.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\libssl-3.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\msvcp140.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\vcruntime140.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zlib1.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\zstd.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Application.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Core.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Infrastructure.dll
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Application.pdb
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Infrastructure.pdb
+C:\estudo\devzao\src\WebApi\bin\Debug\net9.0\Core.pdb
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.csproj.AssemblyReference.cache
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfoInputs.cache
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfo.cs
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\scopedcss\bundle\WebApi.styles.css
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.csproj.Up2Date
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.dll
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\refint\WebApi.dll
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.pdb
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\ref\WebApi.dll
