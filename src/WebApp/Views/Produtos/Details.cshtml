@@ -1,4 +1,3 @@
-@using WebApp.Helpers
 @model Application.Dtos.ProdutoDto
 
 @{
@@ -40,19 +39,19 @@
                     <div class="row mb-4">
                         <div class="col-md-8">
                             <div id="produto-descricao-container" class="mb-4">
-                                <h2 id="produto-descricao-titulo" class="h5 fw-bold">@NomeExibicao.Descricao</h2>
+                                <h2 id="produto-descricao-titulo" class="h5 fw-bold">Descrição</h2>
                                 <p id="produto-descricao" class="mb-0">@(string.IsNullOrEmpty(Model.Descricao) ? "Nenhuma descrição fornecida" : Model.Descricao)</p>
                             </div>
                             
                             <div class="row">
                                 <div id="produto-preco-container" class="col-md-6 mb-3">
-                                    <h3 id="produto-preco-titulo" class="h5 fw-bold">@NomeExibicao.Preco</h3>
+                                    <h3 id="produto-preco-titulo" class="h5 fw-bold">Preço</h3>
                                     <div id="produto-preco" class="h4 text-primary">
                                         @Model.Preco.ToString("C2")
                                     </div>
                                 </div>
                                 <div id="produto-estoque-container" class="col-md-6 mb-3">
-                                    <h3 id="produto-estoque-titulo" class="h5 fw-bold">@NomeExibicao.QuantidadeEmEstoque</h3>
+                                    <h3 id="produto-estoque-titulo" class="h5 fw-bold">Estoque</h3>
                                     <div id="produto-estoque" class="h4">
                                         @Model.QuantidadeEmEstoque
                                     </div>

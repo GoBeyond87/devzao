@@ -1,6 +1,13 @@
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.FileProviders;
+using System.IO;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(new WebApplicationOptions
+{
+    Args = args,
+    // Garante que o caminho para wwwroot seja absoluto
+    WebRootPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot")
+});
 
 // Configura para usar apenas HTTP
 builder.WebHost.UseUrls("http://localhost:5000");

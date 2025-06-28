@@ -38,3 +38,5 @@ dotnet test
 dotnet run --project src/WebApi
 >>> outro terminal
 dotnet run --project src/WebApp
+
+

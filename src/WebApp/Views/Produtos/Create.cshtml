@@ -37,7 +37,7 @@
                         
                         <div id="campo-nome" class="mb-4">
                             <label asp-for="Nome" id="label-nome" class="form-label fw-bold">@Html.DisplayNameFor(model => model.Nome)</label>
-                            <div class="input-group">
+                            <div class="input-group" id="input-group-nome">
                                 <input asp-for="Nome" 
                                        id="input-nome" 
                                        class="form-control" 
@@ -45,78 +45,93 @@
                                        maxlength="100" 
                                        aria-required="true"
                                        aria-describedby="ajuda-nome contador-nome" />
-                                <span class="input-group-text">
+                            </div>
+                            <div class="d-flex justify-content-between mt-2" id="contador-container-nome">
+                                <div id="ajuda-nome" class="form-text">
+                                    Nome do produto (obrigatório, máximo de 100 caracteres)
+                                </div>
+                                <div class="text-muted small" id="contador-wrapper-nome">
                                     <span id="contador-nome">0/100</span>
-                                </span>
+                                </div>
                             </div>
-                            <div id="ajuda-nome" class="form-text">
-                                Nome do produto (obrigatório, máximo de 100 caracteres)
-                            </div>
-                            <span asp-validation-for="Nome" class="text-danger d-block"></span>
+                            <span id="erro-nome" asp-validation-for="Nome" class="text-danger d-block"></span>
                         </div>
 
                         <div id="campo-descricao" class="mb-4">
-                            <label asp-for="Descricao" id="label-descricao" class="form-label fw-bold">@Html.DisplayNameFor(model => model.Descricao)</label>
-                            <textarea asp-for="Descricao" 
-                                     id="input-descricao" 
-                                     class="form-control" 
-                                     rows="3" 
-                                     maxlength="500"
-                                     aria-describedby="ajuda-descricao contador-descricao"></textarea>
-                            <div class="d-flex justify-content-between">
+                            <label id="label-descricao" class="form-label fw-bold" for="Descricao">Descrição</label>
+                            <div id="textarea-wrapper-descricao">
+                                <textarea asp-for="Descricao" 
+                                         id="input-descricao" 
+                                         class="form-control" 
+                                         rows="3" 
+                                         maxlength="500"
+                                         aria-describedby="ajuda-descricao contador-descricao"></textarea>
+                            </div>
+                            <div class="d-flex justify-content-between mt-2" id="contador-container-descricao">
                                 <div id="ajuda-descricao" class="form-text">
                                     Descrição detalhada do produto (opcional, máximo 500 caracteres)
                                 </div>
-                                <div class="text-muted small">
+                                <div class="text-muted small" id="contador-wrapper-descricao">
                                     <span id="contador-descricao">0/500</span>
                                 </div>
                             </div>
-                            <span asp-validation-for="Descricao" class="text-danger d-block"></span>
+                            <span id="erro-descricao" asp-validation-for="Descricao" class="text-danger d-block"></span>
                         </div>
 
                         <div class="row">
                             <div id="campo-preco" class="col-12 col-md-6 mb-4">
-                                <label asp-for="Preco" id="label-preco" class="form-label fw-bold">@Html.DisplayNameFor(model => model.Preco)</label>
-                                <div class="input-group">
-                                    <span class="input-group-text">R$</span>
+                                <label asp-for="Preco" id="label-preco" class="form-label fw-bold">Preço</label>
+                                <div class="input-group" id="input-group-preco">
+                                    <span class="input-group-text" id="moeda-preco">R$</span>
                                     <input asp-for="Preco" 
                                            id="preco" 
                                            class="form-control" 
                                            type="number" 
                                            step="0.01" 
-                                           min="0.01" 
+                                           min="0.01"
+                                           max="999999.99"
+                                           maxlength="9"
                                            required
                                            aria-required="true"
-                                           aria-describedby="ajuda-preco" />
+                                           aria-describedby="ajuda-preco contador-preco" />
                                 </div>
-                                <div id="ajuda-preco" class="form-text">
-                                    Informe o preço do produto
+                                <div class="d-flex justify-content-between mt-2" id="contador-container-preco">
+                                    <div id="ajuda-preco" class="form-text">
+                                        Informe o preço do produto
+                                    </div>
+                                    <div class="text-muted small" id="contador-wrapper-preco">
+                                        <span id="contador-preco">0,00</span>
+                                    </div>
                                 </div>
-                                <span asp-validation-for="Preco" class="text-danger d-block"></span>
+                                <span id="erro-preco" asp-validation-for="Preco" class="text-danger d-block"></span>
                             </div>
 
                             <div id="campo-estoque" class="col-12 col-md-6 mb-4">
-                                <label asp-for="QuantidadeEmEstoque" id="label-estoque" class="form-label fw-bold">@Html.DisplayNameFor(model => model.QuantidadeEmEstoque)</label>
-                                <input asp-for="QuantidadeEmEstoque" 
-                                       id="quantidade-estoque" 
-                                       class="form-control" 
-                                       type="number" 
-                                       min="0" 
-                                       value="0"
-                                       aria-describedby="ajuda-estoque" />
+                                <label id="label-estoque" class="form-label fw-bold" for="QuantidadeEmEstoque">Estoque</label>
+                                <div id="input-wrapper-estoque">
+                                    <input asp-for="QuantidadeEmEstoque" 
+                                           id="quantidade-estoque" 
+                                           class="form-control" 
+                                           type="number"
+                                           min="0"
+                                           max="999999"
+                                           maxlength="6"
+                                           value="0"
+                                           aria-describedby="ajuda-estoque" />
+                                </div>
                                 <div id="ajuda-estoque" class="form-text">
                                     Quantidade disponível em estoque
                                 </div>
-                                <span asp-validation-for="QuantidadeEmEstoque" class="text-danger d-block"></span>
+                                <span id="erro-estoque" asp-validation-for="QuantidadeEmEstoque" class="text-danger d-block"></span>
                             </div>
                         </div>
 
                         <div id="acoes" class="d-flex flex-column flex-sm-row justify-content-between gap-2">
                             <a id="btn-cancelar" asp-action="Index" class="btn btn-outline-secondary order-2 order-sm-1">
-                                <i class="fas fa-times me-1" aria-hidden="true"></i>Cancelar
+                                <i id="icon-cancelar" class="fas fa-times me-1" aria-hidden="true"></i>Cancelar
                             </a>
                             <button id="btn-salvar" type="submit" class="btn btn-primary order-1 order-sm-2">
-                                <i id="btn-salvar-icon" class="fas fa-save me-1" aria-hidden="true"></i>Salvar Produto
+                                <i id="icon-salvar" class="fas fa-save me-1" aria-hidden="true"></i>Salvar Produto
                             </button>
                         </div>
                     </form>
@@ -124,11 +139,11 @@
                 <div class="card-footer text-muted small">
                     <div id="info-rodape" class="d-flex justify-content-between">
                         <div id="info-data">
-                            <i class="far fa-calendar-alt me-1" aria-hidden="true"></i>
-                            <span>@DateTime.Now.ToString("dd/MM/yyyy HH:mm")</span>
+                            <i id="icon-data" class="far fa-calendar-alt me-1" aria-hidden="true"></i>
+                            <span id="texto-data">@DateTime.Now.ToString("dd/MM/yyyy HH:mm")</span>
                         </div>
                         <div id="info-campos-obrigatorios" class="text-end">
-                            <span class="text-danger">*</span> Campos obrigatórios
+                            <span class="text-danger">*</span> <span id="texto-campos-obrigatorios">Campos obrigatórios</span>
                         </div>
                     </div>
                 </div>
@@ -159,6 +174,7 @@
 
         .input-group-text {
             background-color: #f8f9fa;
+            color: #000 !important;
         }
 
         /* Estilo para campos obrigatórios */
@@ -308,17 +324,37 @@
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
     
     <script>
-        // Inicialização de componentes e melhorias de acessibilidade
-        document.addEventListener('DOMContentLoaded', function() {
+        // Função para inicializar os contadores
+        function inicializarContadores() {
+            console.log('Inicializando contadores...');
+            
             // Contadores de caracteres
             const nomeInput = document.getElementById('input-nome');
             const nomeContador = document.getElementById('contador-nome');
             const descricaoInput = document.getElementById('input-descricao');
             const descricaoContador = document.getElementById('contador-descricao');
+            const precoInput = document.getElementById('preco');
+            const precoContador = document.getElementById('contador-preco');
+
+            console.log('Elementos encontrados:', {
+                nomeInput: !!nomeInput,
+                nomeContador: !!nomeContador,
+                descricaoInput: !!descricaoInput,
+                descricaoContador: !!descricaoContador,
+                precoInput: !!precoInput,
+                precoContador: !!precoContador
+            });
 
             // Atualiza contadores
             function atualizarContador(input, contador, max) {
-                const length = input.value.length;
+                if (!input || !contador) {
+                    console.error('Input ou contador não encontrado');
+                    return;
+                }
+                
+                const length = input.value ? input.value.length : 0;
+                console.log(`Atualizando contador: ${length}/${max}`);
+                
                 contador.textContent = `${length}/${max}`;
                 
                 // Altera a cor se estiver próximo do limite
@@ -331,35 +367,47 @@
                 }
             }
 
-
             // Inicializa contadores
             if (nomeInput && nomeContador) {
-                nomeInput.addEventListener('input', () => atualizarContador(nomeInput, nomeContador, 100));
-                // Inicializa com o valor atual se houver
+                nomeInput.addEventListener('input', function() {
+                    console.log('Input do nome alterado');
+                    atualizarContador(nomeInput, nomeContador, 100);
+                });
+                // Inicializa com o valor atual
+                console.log('Inicializando contador do nome');
                 atualizarContador(nomeInput, nomeContador, 100);
             }
 
-
             if (descricaoInput && descricaoContador) {
-                descricaoInput.addEventListener('input', () => atualizarContador(descricaoInput, descricaoContador, 500));
-                // Inicializa com o valor atual se houver
+                descricaoInput.addEventListener('input', function() {
+                    console.log('Input da descrição alterado');
+                    atualizarContador(descricaoInput, descricaoContador, 500);
+                });
+                // Inicializa com o valor atual
+                console.log('Inicializando contador da descrição');
                 atualizarContador(descricaoInput, descricaoContador, 500);
             }
 
-
-            // Formatação de moeda para o campo de preço
-            const precoInput = document.getElementById('preco');
-            if (precoInput) {
-                precoInput.addEventListener('blur', function() {
-                    if (this.value) {
-                        // Garante que o valor tenha 2 casas decimais
-                        this.value = parseFloat(this.value).toFixed(2);
-                    }
+            // Atualiza o contador de preço
+            if (precoInput && precoContador) {
+                precoInput.addEventListener('input', function() {
+                    precoContador.textContent = this.value ? parseFloat(this.value).toFixed(2).replace('.', ',') : '0,00';
                 });
+                // Inicializa com o valor atual
+                precoContador.textContent = precoInput.value ? parseFloat(precoInput.value).toFixed(2).replace('.', ',') : '0,00';
             }
+        }
 
+        // Aguarda o carregamento completo do DOM
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', inicializarContadores);
+        } else {
+            // DOM já carregado
+            inicializarContadores();
+        }
 
-            // Validação personalizada para o formulário
+        // Validação personalizada para o formulário
+        document.addEventListener('DOMContentLoaded', function() {
             const form = document.getElementById('form-produto');
             if (form) {
                 form.addEventListener('submit', function(event) {
@@ -370,44 +418,33 @@
                     form.classList.add('was-validated');
                 }, false);
             }
+        });
 
+        // Função para limitar o número de caracteres em um campo numérico
+        function limitarCaracteres(input, maxLength) {
+            if (input.value.length > maxLength) {
+                input.value = input.value.slice(0, maxLength);
+            }
+        }
 
-            // Melhorias de acessibilidade para campos de formulário
-            const formControls = document.querySelectorAll('.form-control, .form-select, .form-check-input');
-            formControls.forEach(control => {
-                // Adiciona foco visível para melhor acessibilidade
-                control.addEventListener('focus', function() {
-                    this.style.outline = '2px solid #0d6efd';
-                    this.style.outlineOffset = '2px';
+        // Inicialização dos eventos
+        document.addEventListener('DOMContentLoaded', function() {
+            const precoInput = document.getElementById('preco');
+            const quantidadeInput = document.getElementById('quantidade-estoque');
+
+            // Limitar caracteres no campo de preço (9 caracteres)
+            if (precoInput) {
+                precoInput.addEventListener('input', function() {
+                    limitarCaracteres(this, 9);
                 });
-                
-                control.addEventListener('blur', function() {
-                    this.style.outline = '';
+            }
+
+            // Limitar caracteres no campo de quantidade (6 caracteres)
+            if (quantidadeInput) {
+                quantidadeInput.addEventListener('input', function() {
+                    limitarCaracteres(this, 6);
                 });
-                
-                // Adiciona suporte a teclado para elementos interativos
-                if (control.tagName === 'SELECT' || control.type === 'checkbox' || control.type === 'radio') {
-                    control.addEventListener('keydown', function(e) {
-                        if (e.key === 'Enter' || e.key === ' ') {
-                            e.preventDefault();
-                            this.click();
-                        }
-                    });
-                }
-            });
-
-
-            // Adiciona classes para campos obrigatórios
-            const requiredFields = form.querySelectorAll('[required]');
-            requiredFields.forEach(field => {
-                const label = form.querySelector(`label[for="${field.id}"]`);
-                if (label && !label.querySelector('.required-asterisk')) {
-                    const asterisk = document.createElement('span');
-                    asterisk.className = 'required-asterisk text-danger';
-                    asterisk.textContent = ' *';
-                    label.appendChild(asterisk);
-                }
-            });
+            }
         });
     </script>
 }

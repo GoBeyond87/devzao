@@ -1206,6 +1206,7 @@ C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfo.cs
 C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
 C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\WebApi.sourcelink.json
 C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\estudo\devzao\src\WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json

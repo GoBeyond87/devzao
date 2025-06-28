@@ -5,7 +5,6 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using Microsoft.Extensions.Configuration;
 using Application.Dtos;
-using Application.ViewModels;
 
 namespace WebApp.Controllers
 {
@@ -153,16 +152,7 @@ namespace WebApp.Controllers
                     return RedirectToAction(nameof(Index));
                 }
                 
-                var viewModel = new EditarProdutoViewModel
-                {
-                    Id = produto.Id,
-                    Nome = produto.Nome,
-                    Descricao = produto.Descricao,
-                    Preco = produto.Preco,
-                    QuantidadeEmEstoque = produto.QuantidadeEmEstoque
-                };
-                
-                return View(viewModel);
+                return View(produto);
             }
             catch (Exception ex)
             {
@@ -174,23 +164,23 @@ namespace WebApp.Controllers
         // POST: Produtos/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, EditarProdutoViewModel viewModel)
+        public async Task<IActionResult> Edit(int id, [FromForm] ProdutoDto produtoDto)
         {
-            if (id != viewModel.Id)
+            if (id != produtoDto.Id)
                 return NotFound();
 
             if (!ModelState.IsValid)
-                return View(viewModel);
+                return View(produtoDto);
 
             try
             {
-                var dto = new AtualizarProdutoDto
+                var dto = new ProdutoDto
                 {
-                    Id = viewModel.Id,
-                    Nome = viewModel.Nome,
-                    Descricao = viewModel.Descricao,
-                    Preco = viewModel.Preco,
-                    QuantidadeEmEstoque = viewModel.QuantidadeEmEstoque
+                    Id = id,
+                    Nome = produtoDto.Nome,
+                    Descricao = produtoDto.Descricao,
+                    Preco = produtoDto.Preco,
+                    QuantidadeEmEstoque = produtoDto.QuantidadeEmEstoque
                 };
 
                 var client = _httpClientFactory.CreateClient("ProdutoApi");
@@ -212,7 +202,7 @@ namespace WebApp.Controllers
                 {
                     var errorContent = await response.Content.ReadAsStringAsync();
                     TempData["ErrorMessage"] = errorContent;
-                    return View(viewModel);
+                    return View(produtoDto);
                 }
                 
                 response.EnsureSuccessStatusCode();
@@ -223,7 +213,7 @@ namespace WebApp.Controllers
             catch (Exception ex)
             {
                 TempData["ErrorMessage"] = "Erro ao atualizar produto: " + ex.Message;
-                return View(viewModel);
+                return View(produtoDto);
             }
         }
 

@@ -83,6 +83,7 @@ C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEd
 C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
 C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
 C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.sourcelink.json
 C:\estudo\devzao\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
 C:\estudo\devzao\src\Application\obj\Debug\net9.0\Application.dll
 C:\estudo\devzao\src\Application\obj\Debug\net9.0\refint\Application.dll

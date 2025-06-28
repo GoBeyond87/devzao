@@ -3050,6 +3050,7 @@ C:\estudo\devzao\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.Gene
 C:\estudo\devzao\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.AssemblyInfoInputs.cache
 C:\estudo\devzao\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.AssemblyInfo.cs
 C:\estudo\devzao\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.csproj.CoreCompileInputs.cache
+C:\estudo\devzao\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.sourcelink.json
 C:\estudo\devzao\tests\Application.Tests\obj\Debug\net9.0\Applicat.7AAE1402.Up2Date
 C:\estudo\devzao\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.dll
 C:\estudo\devzao\tests\Application.Tests\obj\Debug\net9.0\refint\Application.Tests.dll

@@ -1,66 +1,215 @@
-@model IEnumerable<WebApp.Controllers.ProdutoDto>
+@using Application.Dtos
+@model IEnumerable<ProdutoDto>
 
 @{
     ViewData["Title"] = "Lista de Produtos";
 }
 
-<div class="d-flex justify-content-between align-items-center mb-4">
-    <h1><i class="fas fa-boxes me-2"></i>@ViewData["Title"]</h1>
-    <a asp-action="Create" class="btn btn-primary">
+<div id="page-header" class="d-flex justify-content-between align-items-center mb-4">
+    <h1 id="page-title" class="mb-0"><i class="fas fa-boxes me-2"></i>@ViewData["Title"]</h1>
+    <a id="btn-novo-produto" asp-action="Create" class="btn btn-primary btn-sm">
         <i class="fas fa-plus-circle me-1"></i> Novo Produto
     </a>
 </div>
 
 @if (!Model.Any())
 {
-    <div class="alert alert-info">
+    <div id="empty-state" class="alert alert-info">
         <i class="fas fa-info-circle me-2"></i>Nenhum produto cadastrado. 
-        <a asp-action="Create" class="alert-link">Clique aqui</a> para adicionar um novo produto.
+        <a id="empty-state-link" asp-action="Create" class="alert-link">Clique aqui</a> para adicionar um novo produto.
     </div>
 }
 else
 {
-    <div class="table-responsive">
-        <table class="table table-striped table-hover">
-            <thead class="table-dark">
-                <tr>
-                    <th>@Html.DisplayNameFor(model => model.First().Nome)</th>
-                    <th>@Html.DisplayNameFor(model => model.First().Descricao)</th>
-                    <th class="text-end">@Html.DisplayNameFor(model => model.First().Preco)</th>
-                    <th class="text-center">@Html.DisplayNameFor(model => model.First().QuantidadeEmEstoque)</th>
-                    <th class="text-center">Ações</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model)
-                {
-                    <tr>
-                        <td>@Html.DisplayFor(modelItem => item.Nome)</td>
-                        <td>@Html.DisplayFor(modelItem => item.Descricao)</td>
-                        <td class="text-end">@item.Preco.ToString("C2")</td>
-                        <td class="text-center">
-                            <span class="badge @(item.QuantidadeEmEstoque > 0 ? "bg-success" : "bg-danger") fs-6">
-                                @item.QuantidadeEmEstoque
-                            </span>
-                        </td>
-                        <td class="table-actions">
-                            <div class="btn-group btn-group-sm" role="group">
-                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info text-white" data-bs-toggle="tooltip" title="Detalhes">
-                                    <i class="fas fa-eye"></i>
-                                </a>
-                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning text-white" data-bs-toggle="tooltip" title="Editar">
-                                    <i class="fas fa-edit"></i>
-                                </a>
-                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger" data-bs-toggle="tooltip" title="Excluir">
-                                    <i class="fas fa-trash"></i>
-                                </a>
-                            </div>
-                        </td>
+    <div id="products-container" class="table-container">
+        <div class="table-responsive">
+            <table id="products-table" class="table table-striped table-hover m-0" style="table-layout: fixed; width: 100%;">
+                <colgroup>
+                    <col style="width: 20%;">
+                    <col style="width: 35%;">
+                    <col style="width: 15%;">
+                    <col style="width: 15%;">
+                    <col style="width: 15%;">
+                </colgroup>
+                <thead class="table-dark">
+                    <tr id="table-header">
+                        <th id="header-nome">@Html.DisplayNameFor(model => model.First().Nome)</th>
+                        <th id="header-descricao">Descrição</th>
+                        <th id="header-preco" class="text-end">Preço</th>
+                        <th id="header-estoque" class="text-center">Estoque</th>
+                        <th id="header-acoes" class="text-center">Ações</th>
                     </tr>
-                }
-            </tbody>
-        </table>
+                </thead>
+                <tbody id="table-body">
+                    @foreach (var item in Model)
+                    {
+                        <tr id="product-row-@item.Id" class="product-row">
+                            <td id="product-nome-@item.Id" class="fw-bold text-truncate" data-label="Nome" title="@item.Nome">@item.Nome</td>
+                            <td id="product-descricao-@item.Id" class="text-truncate" data-label="Descrição" title="@item.Descricao">
+                                @item.Descricao
+                            </td>
+                            <td id="product-preco-@item.Id" class="text-end fw-bold" data-label="Preço">@item.Preco.ToString("C2")</td>
+                            <td id="product-estoque-@item.Id" class="text-center" data-label="Estoque">
+                                <span id="estoque-badge-@item.Id" class="badge @(item.QuantidadeEmEstoque > 0 ? "bg-success" : "bg-danger") fs-6">
+                                    @item.QuantidadeEmEstoque
+                                </span>
+                            </td>
+                            <td id="product-acoes-@item.Id" class="table-actions text-center">
+                                <div id="btn-group-@item.Id" class="btn-group btn-group-sm" role="group">
+                                    <a id="btn-detalhes-@item.Id" asp-action="Details" asp-route-id="@item.Id" class="btn btn-info text-white" data-bs-toggle="tooltip" title="Detalhes">
+                                        <i class="fas fa-eye"></i>
+                                        <span class="d-md-none ms-1">Detalhes</span>
+                                    </a>
+                                    <a id="btn-editar-@item.Id" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning text-white" data-bs-toggle="tooltip" title="Editar">
+                                        <i class="fas fa-edit"></i>
+                                        <span class="d-md-none ms-1">Editar</span>
+                                    </a>
+                                    <a id="btn-excluir-@item.Id" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger" data-bs-toggle="tooltip" title="Excluir">
+                                        <i class="fas fa-trash"></i>
+                                        <span class="d-md-none ms-1">Excluir</span>
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
     </div>
+}
+
+@section Styles {
+    <style>
+        .table {
+            table-layout: fixed;
+            width: 100%;
+            margin-bottom: 0;
+        }
+        
+        .table td, .table th {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 0;
+            vertical-align: middle;
+        }
+        
+        /* Container principal da tabela */
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            margin-bottom: 1rem;
+            border-radius: 0.25rem;
+            box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+        }
+        
+        /* Torna a tabela responsiva */
+        @@media (max-width: 992px) {
+            .table-container {
+                display: block;
+                width: 100%;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+            
+            .table {
+                min-width: 800px;
+                margin-bottom: 0;
+            }
+            
+            .table thead th {
+                white-space: nowrap;
+                position: sticky;
+                top: 0;
+                background-color: #212529;
+                z-index: 10;
+            }
+        }
+        
+        /* Estilo para a barra de rolagem */
+        ::-webkit-scrollbar {
+            height: 8px;
+            width: 8px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 4px;
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 4px;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+        
+        /* Estilo para os botões de ação */
+        .btn-group-sm {
+            display: inline-flex;
+        }
+        
+        .btn-group-sm > .btn {
+            width: 32px;
+            height: 32px;
+            padding: 0;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+        
+        .btn-group-sm .btn i {
+            font-size: 14px;
+            margin: 0;
+        }
+        
+        .btn-group-sm .btn .d-md-none {
+            display: none;
+        }
+        
+        /* Garante que o texto não apareça em nenhum tamanho de tela */
+        .btn-group-sm .btn span {
+            display: none !important;
+        }
+        
+        /* Remove qualquer efeito de hover que possa alterar o tamanho */
+        .btn-group-sm .btn:hover {
+            transform: none;
+        }
+        
+        /* Adiciona tooltip para texto cortado */
+        [title] {
+            position: relative;
+        }
+        
+        [title]:hover::after {
+            content: attr(title);
+            position: absolute;
+            bottom: 100%;
+            left: 0;
+            background: #333;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 4px;
+            white-space: normal;
+            z-index: 1;
+            max-width: 300px;
+            width: max-content;
+            font-size: 14px;
+            line-height: 1.4;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        
+        [title]:hover::after {
+            opacity: 1;
+        }
+    </style>
 }
 
 @section Scripts {

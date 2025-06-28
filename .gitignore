@@ -1,83 +1,50 @@
-# .NET build artifacts
-bin/
-obj/
-
-# Visual Studio files
+# Arquivos do Visual Studio
 .vs/
 *.user
-*.suo
 *.userosscache
 *.sln.docstates
 
-# Test results
-TestResults/
-*.trx
-*.log
-
-# User-specific files
-*.rsuser
-*.userprefs
-*.userosscache
-*.sln.docstates
-
-# Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
+# Arquivos de build
 [Bb]in/
 [Oo]bj/
-[Ll]og/
-[Ll]ogs/
 
-# IDE - Visual Studio
-.vs/
+# Arquivos de usuário específicos do Visual Studio
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
+# Arquivos de publicação
+publish/
+
+# Pacotes do NuGet
+*.nupkg
 
 # VS Code
 .vscode/
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
-# Rider
-.idea/
-*.sln.iml
+# Arquivos de log
+*.log
 
-# Local development settings
+# Configurações de usuário local
 appsettings.Development.json
-appsettings.local.json
 
-# ReSharper
+# Arquivos de banco de dados local
+*.mdf
+*.ldf
+
+# Resharper
 _ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
-
-# NuGet Packages
-*.nupkg
-# The packages folder can be ignored because of Package Restore
-**/[Pp]ackages/*
-# except build/, which is used as an MSBuild target.
-!**/[Pp]ackages/build/
-# Uncomment if necessary however generally it will be regenerated when needed
-#!**/[Pp]ackages/repositories.config
-# NuGet v3's project.json files produces more ignorable files
-*.nuget.props
-*.nuget.targets
-
-# MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
+*.sln.docstates
 
 # Local History for Visual Studio
 .localhistory/
+
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
+MigrationBackup/
+
+# Ionide (cross platform F# VS Code tools) working folder
+.ionide/
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd

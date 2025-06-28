@@ -1637,3 +1637,4 @@ C:\estudo\devzao\src\WebApp\obj\Debug\net9.0\WebApp.pdb
 C:\estudo\devzao\src\WebApp\obj\Debug\net9.0\WebApp.genruntimeconfig.cache
 C:\estudo\devzao\src\WebApp\obj\Debug\net9.0\ref\WebApp.dll
 C:\estudo\devzao\src\WebApp\bin\Debug\net9.0\WebApp.staticwebassets.runtime.json
+C:\estudo\devzao\src\WebApp\obj\Debug\net9.0\WebApp.sourcelink.json

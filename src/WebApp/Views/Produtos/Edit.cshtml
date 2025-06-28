@@ -1,5 +1,4 @@
-@using WebApp.Helpers
-@model Application.ViewModels.EditarProdutoViewModel
+@model Application.Dtos.ProdutoDto
 
 @{
     ViewData["Title"] = "Editar Produto";
@@ -68,7 +67,7 @@
                         </div>
 
                         <div id="campo-descricao" class="mb-4">
-                            <label asp-for="Descricao" id="label-descricao" class="form-label fw-bold">@Html.DisplayNameFor(model => model.Descricao)</label>
+                            <label asp-for="Descricao" id="label-descricao" class="form-label fw-bold">Descrição</label>
                             <textarea asp-for="Descricao" 
                                      id="input-descricao" 
                                      class="form-control" 
@@ -88,7 +87,7 @@
 
                         <div class="row">
                             <div id="campo-preco" class="col-12 col-md-6 mb-4">
-                                <label asp-for="Preco" id="label-preco" class="form-label fw-bold">@Html.DisplayNameFor(model => model.Preco)</label>
+                                <label asp-for="Preco" id="label-preco" class="form-label fw-bold">Preço</label>
                                 <div class="input-group">
                                     <span class="input-group-text">R$</span>
                                     <input asp-for="Preco" 
@@ -115,7 +114,7 @@
                             </div>
 
                             <div id="campo-estoque" class="col-12 col-md-6 mb-4">
-                                <label asp-for="QuantidadeEmEstoque" id="label-estoque" class="form-label fw-bold">@Html.DisplayNameFor(model => model.QuantidadeEmEstoque)</label>
+                                <label asp-for="QuantidadeEmEstoque" id="label-estoque" class="form-label fw-bold">Estoque</label>
                                 <input asp-for="QuantidadeEmEstoque" 
                                        id="quantidade-estoque" 
                                        class="form-control" 
