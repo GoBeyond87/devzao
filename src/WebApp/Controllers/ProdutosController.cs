@@ -3,8 +3,9 @@ using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
+using Application.Dtos;
+using Application.ViewModels;
 
 namespace WebApp.Controllers
 {
@@ -29,7 +30,11 @@ namespace WebApp.Controllers
                 response.EnsureSuccessStatusCode();
                 
                 var content = await response.Content.ReadAsStringAsync();
-                var produtos = JsonSerializer.Deserialize<List<ProdutoDto>>(content);
+                var options = new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                };
+                var produtos = JsonSerializer.Deserialize<List<ProdutoDto>>(content, options);
                 
                 return View(produtos);
             }
@@ -54,7 +59,17 @@ namespace WebApp.Controllers
                 response.EnsureSuccessStatusCode();
                 
                 var content = await response.Content.ReadAsStringAsync();
-                var produto = JsonSerializer.Deserialize<ProdutoDto>(content);
+                var options = new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                };
+                var produto = JsonSerializer.Deserialize<ProdutoDto>(content, options);
+                
+                if (produto == null)
+                {
+                    TempData["ErrorMessage"] = "Erro ao carregar o produto: Dados inválidos recebidos da API.";
+                    return RedirectToAction(nameof(Index));
+                }
                 
                 return View(produto);
             }
@@ -82,8 +97,12 @@ namespace WebApp.Controllers
             try
             {
                 var client = _httpClientFactory.CreateClient("ProdutoApi");
+                var options = new JsonSerializerOptions
+                {
+                    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+                };
                 var jsonContent = new StringContent(
-                    JsonSerializer.Serialize(dto),
+                    JsonSerializer.Serialize(dto, options),
                     Encoding.UTF8,
                     "application/json");
 
@@ -122,9 +141,28 @@ namespace WebApp.Controllers
                 response.EnsureSuccessStatusCode();
                 
                 var content = await response.Content.ReadAsStringAsync();
-                var produto = JsonSerializer.Deserialize<AtualizarProdutoDto>(content);
+                var options = new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                };
+                var produto = JsonSerializer.Deserialize<ProdutoDto>(content, options);
                 
-                return View(produto);
+                if (produto == null)
+                {
+                    TempData["ErrorMessage"] = "Erro ao carregar o produto: Dados inválidos recebidos da API.";
+                    return RedirectToAction(nameof(Index));
+                }
+                
+                var viewModel = new EditarProdutoViewModel
+                {
+                    Id = produto.Id,
+                    Nome = produto.Nome,
+                    Descricao = produto.Descricao,
+                    Preco = produto.Preco,
+                    QuantidadeEmEstoque = produto.QuantidadeEmEstoque
+                };
+                
+                return View(viewModel);
             }
             catch (Exception ex)
             {
@@ -136,19 +174,32 @@ namespace WebApp.Controllers
         // POST: Produtos/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, AtualizarProdutoDto dto)
+        public async Task<IActionResult> Edit(int id, EditarProdutoViewModel viewModel)
         {
-            if (id != dto.Id)
+            if (id != viewModel.Id)
                 return NotFound();
 
             if (!ModelState.IsValid)
-                return View(dto);
+                return View(viewModel);
 
             try
             {
+                var dto = new AtualizarProdutoDto
+                {
+                    Id = viewModel.Id,
+                    Nome = viewModel.Nome,
+                    Descricao = viewModel.Descricao,
+                    Preco = viewModel.Preco,
+                    QuantidadeEmEstoque = viewModel.QuantidadeEmEstoque
+                };
+
                 var client = _httpClientFactory.CreateClient("ProdutoApi");
+                var options = new JsonSerializerOptions
+                {
+                    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+                };
                 var jsonContent = new StringContent(
-                    JsonSerializer.Serialize(dto),
+                    JsonSerializer.Serialize(dto, options),
                     Encoding.UTF8,
                     "application/json");
 
@@ -161,7 +212,7 @@ namespace WebApp.Controllers
                 {
                     var errorContent = await response.Content.ReadAsStringAsync();
                     TempData["ErrorMessage"] = errorContent;
-                    return View(dto);
+                    return View(viewModel);
                 }
                 
                 response.EnsureSuccessStatusCode();
@@ -172,7 +223,7 @@ namespace WebApp.Controllers
             catch (Exception ex)
             {
                 TempData["ErrorMessage"] = "Erro ao atualizar produto: " + ex.Message;
-                return View(dto);
+                return View(viewModel);
             }
         }
 
@@ -190,7 +241,17 @@ namespace WebApp.Controllers
                 response.EnsureSuccessStatusCode();
                 
                 var content = await response.Content.ReadAsStringAsync();
-                var produto = JsonSerializer.Deserialize<ProdutoDto>(content);
+                var options = new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                };
+                var produto = JsonSerializer.Deserialize<ProdutoDto>(content, options);
+                
+                if (produto == null)
+                {
+                    TempData["ErrorMessage"] = "Erro ao carregar o produto: Dados inválidos recebidos da API.";
+                    return RedirectToAction(nameof(Index));
+                }
                 
                 return View(produto);
             }
@@ -225,46 +286,5 @@ namespace WebApp.Controllers
                 return RedirectToAction(nameof(Index));
             }
         }
-    }
-
-    // Classes DTOs para deserialização
-    public class ProdutoDto
-    {
-        [JsonPropertyName("id")]
-        public int Id { get; set; }
-        [JsonPropertyName("nome")]
-        public string Nome { get; set; } = string.Empty;
-        [JsonPropertyName("descricao")]
-        public string Descricao { get; set; } = string.Empty;
-        [JsonPropertyName("preco")]
-        public decimal Preco { get; set; }
-        [JsonPropertyName("quantidadeEmEstoque")]
-        public int QuantidadeEmEstoque { get; set; }
-    }
-
-    public class CriarProdutoDto
-    {
-        [JsonPropertyName("nome")]
-        public string Nome { get; set; } = string.Empty;
-        [JsonPropertyName("descricao")]
-        public string Descricao { get; set; } = string.Empty;
-        [JsonPropertyName("preco")]
-        public decimal Preco { get; set; }
-        [JsonPropertyName("quantidadeEmEstoque")]
-        public int Estoque { get; set; }
-    }
-
-    public class AtualizarProdutoDto
-    {
-        [JsonPropertyName("id")]
-        public int Id { get; set; }
-        [JsonPropertyName("nome")]
-        public string Nome { get; set; } = string.Empty;
-        [JsonPropertyName("descricao")]
-        public string Descricao { get; set; } = string.Empty;
-        [JsonPropertyName("preco")]
-        public decimal Preco { get; set; }
-        [JsonPropertyName("quantidadeEmEstoque")]
-        public int Estoque { get; set; }
     }
 }

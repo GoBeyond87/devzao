@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" data-bs-theme="light">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Sistema de Produtos</title>
+    <meta name="description" content="Sistema de gerenciamento de produtos com recursos de acessibilidade" />
+    
+    <!-- Meta tags para acessibilidade -->
+    <meta name="theme-color" content="#0d6efd">
+    <meta name="color-scheme" content="light dark">
     
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -11,64 +16,392 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     
     <style>
-        .navbar-brand {
-            font-weight: 600;
+        :root {
+            --bs-body-bg: #ffffff;
+            --bs-body-color: #212529;
+            --card-bg: #ffffff;
+            --card-border: #dee2e6;
+            --table-hover-bg: rgba(0, 0, 0, 0.025);
+            /* Cores padrão para tooltips no tema claro */
+            --bs-tooltip-bg: #212529;
+            --bs-tooltip-color: #f8f9fa;
+            --bs-tooltip-border-radius: 0.25rem;
+            --bs-tooltip-padding-x: 0.5rem;
+            --bs-tooltip-padding-y: 0.25rem;
+            --bs-tooltip-font-size: 0.875rem;
+            --focus-ring: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
         }
-        .table-actions {
+
+        [data-bs-theme="dark"] {
+            --bs-body-bg: #1a1a1a;
+            --bs-body-color: #f8f9fa;
+            --card-bg: #2d2d2d;
+            --card-border: #444;
+            --table-hover-bg: rgba(255, 255, 255, 0.05);
+            color-scheme: dark;
+            /* Cores para tooltips no tema escuro */
+            --bs-tooltip-bg: #212529;
+            --bs-tooltip-color: #f8f9fa;
+            --focus-ring: 0 0 0 0.25rem rgba(13, 110, 253, 0.5);
+        }
+
+        /* Melhorias de foco para acessibilidade */
+        :focus-visible {
+            outline: 3px solid #0d6efd;
+            outline-offset: 2px;
+            box-shadow: var(--focus-ring);
+        }
+
+        /* Evita que o outline seja removido para usuários de mouse */
+        :focus:not(:focus-visible) {
+            outline: none;
+        }
+
+        /* Estilos para leitores de tela */
+        .sr-only,
+        .visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
             white-space: nowrap;
-            width: 150px;
+            border: 0;
         }
-        .validation-summary-errors {
-            color: #dc3545;
+
+        .skip-to-content {
+            position: absolute;
+            top: -40px;
+            left: 0;
+            background: #0d6efd;
+            color: white;
+            padding: 8px;
+            z-index: 100;
+            transition: top 0.3s;
         }
-        .field-validation-error {
-            color: #dc3545;
-            font-size: 0.875em;
+
+        .skip-to-content:focus {
+            top: 0;
         }
-        .input-validation-error {
-            border-color: #dc3545;
-            background-color: #fff8f8;
+
+        /* Melhorias para navegação por teclado */
+        .navbar-nav .nav-link:focus,
+        .dropdown-item:focus {
+            outline: 2px solid #fff;
+            outline-offset: -2px;
+        }
+
+        /* Estilos para tooltips */
+        .tooltip {
+            --bs-tooltip-bg: var(--bs-tooltip-bg);
+            --bs-tooltip-color: var(--bs-tooltip-color);
+            --bs-tooltip-border-radius: var(--bs-tooltip-border-radius, 0.25rem);
+            --bs-tooltip-padding-x: var(--bs-tooltip-padding-x, 0.5rem);
+            --bs-tooltip-padding-y: var(--bs-tooltip-padding-y, 0.25rem);
+            --bs-tooltip-font-size: var(--bs-tooltip-font-size, 0.875rem);
+            pointer-events: none;
+            z-index: 1080;
+        }
+
+        /* Melhorias de contraste */
+        .text-muted {
+            opacity: 0.8;
+        }
+
+        /* Melhorias para tabelas */
+        .table {
+            --bs-table-bg: transparent;
+            --bs-table-striped-bg: rgba(0, 0, 0, 0.02);
+            --bs-table-hover-bg: var(--table-hover-bg);
+        }
+
+        [data-bs-theme="dark"] .table {
+            --bs-table-striped-bg: rgba(255, 255, 255, 0.02);
+        }
+
+        /* Melhorias para cards */
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--card-border);
+        }
+
+        /* Melhorias para formulários */
+        .form-control:focus,
+        .form-select:focus {
+            border-color: #86b7fe;
+            box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+        }
+
+        /* Melhorias para botões */
+        .btn {
+            transition: all 0.2s ease-in-out;
+        }
+
+        .btn:focus {
+            box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.5);
+        }
+
+        .btn-primary:focus {
+            background-color: #0b5ed7;
+            border-color: #0a58ca;
+        }
+
+        /* Melhorias para acessibilidade em links */
+        a:not([class]) {
+            color: #0d6efd;
+            text-decoration: underline;
+        }
+
+        a:not([class]):hover {
+            text-decoration: none;
+        }
+
+        [data-bs-theme="dark"] a:not([class]) {
+            color: #85b7ff;
+        }
+
+        /* Melhorias para o tema escuro */
+        [data-bs-theme="dark"] {
+            background-color: var(--bs-body-bg);
+            color: var(--bs-body-color);
+        }
+
+        [data-bs-theme="dark"] .navbar-dark .navbar-nav .nav-link {
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        [data-bs-theme="dark"] .navbar-dark .navbar-nav .nav-link:hover,
+        [data-bs-theme="dark"] .navbar-dark .navbar-nav .nav-link:focus {
+            color: rgba(255, 255, 255, 1);
+        }
+
+        /* Melhorias para o contraste no tema claro */
+        :root:not([data-bs-theme="dark"]) .table > :not(caption) > * > * {
+            color: inherit;
+        }
+
+        /* Melhorias para o contraste nos botões */
+        .btn-outline-primary {
+            --bs-btn-hover-color: #fff;
+            --bs-btn-active-color: #fff;
+        }
+
+        /* Melhorias para o contraste nos alerts */
+        .alert {
+            border-left: 4px solid transparent;
+        }
+
+        .alert-primary {
+            border-left-color: #0d6efd;
+        }
+
+        .alert-success {
+            border-left-color: #198754;
+        }
+
+        .alert-danger {
+            border-left-color: #dc3545;
+        }
+
+        .alert-warning {
+            border-left-color: #ffc107;
+        }
+
+        .alert-info {
+            border-left-color: #0dcaf0;
+        }
+
+        /* Melhorias para o contraste em inputs desabilitados */
+        .form-control:disabled, 
+        .form-control[readonly],
+        .form-select:disabled,
+        .form-select[readonly] {
+            background-color: var(--bs-secondary-bg);
+            opacity: 1;
+        }
+
+        /* Melhorias para o contraste em placeholders */
+        ::placeholder {
+            color: #6c757d !important;
+            opacity: 1;
+        }
+
+        [data-bs-theme="dark"] ::placeholder {
+            color: #adb5bd !important;
+        }
+
+        /* Melhorias para o contraste em tooltips */
+        .tooltip {
+            --bs-tooltip-bg: var(--bs-emphasis-color);
+            --bs-tooltip-color: var(--bs-body-bg);
+        }
+
+        /* Melhorias para o contraste em popovers */
+        .popover {
+            --bs-popover-bg: var(--bs-body-bg);
+            --bs-popover-border-color: var(--bs-border-color);
+            --bs-popover-header-bg: var(--bs-tertiary-bg);
+            --bs-popover-header-color: var(--bs-heading-color);
+            --bs-popover-body-color: var(--bs-body-color);
+        }
+
+        /* Melhorias para o contraste em modais */
+        .modal-content {
+            background-color: var(--bs-body-bg);
+            color: var(--bs-body-color);
+            border: 1px solid var(--bs-border-color);
+        }
+
+        .modal-header {
+            border-bottom-color: var(--bs-border-color);
+        }
+
+        .modal-footer {
+            border-top-color: var(--bs-border-color);
+        }
+
+        /* Melhorias para o contraste em dropdowns */
+        .dropdown-menu {
+            --bs-dropdown-bg: var(--bs-body-bg);
+            --bs-dropdown-color: var(--bs-body-color);
+            --bs-dropdown-link-color: var(--bs-body-color);
+            --bs-dropdown-link-hover-color: var(--bs-emphasis-color);
+            --bs-dropdown-link-hover-bg: var(--bs-tertiary-bg);
+            --bs-dropdown-link-active-color: #fff;
+            --bs-dropdown-link-active-bg: #0d6efd;
+            --bs-dropdown-link-disabled-color: var(--bs-tertiary-color);
+            --bs-dropdown-divider-bg: var(--bs-border-color);
+            border: 1px solid var(--bs-border-color);
+        }
+
+        /* Melhorias para o contraste em nav-tabs */
+        .nav-tabs {
+            --bs-nav-tabs-link-active-color: var(--bs-emphasis-color);
+            --bs-nav-tabs-link-active-bg: var(--bs-body-bg);
+            --bs-nav-tabs-link-active-border-color: var(--bs-border-color) var(--bs-border-color) var(--bs-body-bg);
+            border-bottom-color: var(--bs-border-color);
+        }
+
+        .nav-tabs .nav-link {
+            color: var(--bs-body-color);
+        }
+
+        .nav-tabs .nav-link:hover,
+        .nav-tabs .nav-link:focus {
+            border-color: var(--bs-border-color);
+            isolation: isolate;
+        }
+
+        .nav-tabs .nav-link.active,
+        .nav-tabs .nav-item.show .nav-link {
+            color: var(--bs-nav-tabs-link-active-color);
+            background-color: var(--bs-nav-tabs-link-active-bg);
+            border-color: var(--bs-nav-tabs-link-active-border-color);
+        }
+
+        /* Melhorias para o contraste em paginação */
+        .pagination {
+            --bs-pagination-color: var(--bs-link-color);
+            --bs-pagination-bg: var(--bs-body-bg);
+            --bs-pagination-border-color: var(--bs-border-color);
+            --bs-pagination-hover-color: var(--bs-link-hover-color);
+            --bs-pagination-hover-bg: var(--bs-tertiary-bg);
+            --bs-pagination-hover-border-color: var(--bs-border-color);
+            --bs-pagination-focus-color: var(--bs-link-hover-color);
+            --bs-pagination-focus-bg: var(--bs-secondary-bg);
+            --bs-pagination-focus-box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+            --bs-pagination-active-color: #fff;
+            --bs-pagination-active-bg: #0d6efd;
+            --bs-pagination-active-border-color: #0d6efd;
+            --bs-pagination-disabled-color: var(--bs-secondary-color);
+            --bs-pagination-disabled-bg: var(--bs-secondary-bg);
+            --bs-pagination-disabled-border-color: var(--bs-border-color);
+        }
+
+        /* Melhorias para o contraste em breadcrumbs */
+        .breadcrumb {
+            --bs-breadcrumb-divider-color: var(--bs-secondary-color);
+            --bs-breadcrumb-item-active-color: var(--bs-secondary-color);
+        }
+
+        /* Melhorias para o contraste em badges */
+        .badge {
+            --bs-badge-color: #fff;
+        }
+
+        [data-bs-theme="dark"] .badge.bg-light {
+            color: #fff !important;
+            background-color: #444 !important;
+        }
+
+        .bg-light {
+            --bs-bg-opacity: 1;
+            background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+            color: #000;
+        }
+
+        [data-bs-theme="dark"] .bg-light {
+            background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+            color: #fff;
         }
     </style>
     
     @await RenderSectionAsync("Styles", required: false)
 </head>
 <body>
+    <!-- Link de pular para o conteúdo principal -->
+    <a href="#main-content" class="skip-to-content">Pular para o conteúdo principal</a>
+    
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary border-bottom box-shadow mb-3 main-navbar" aria-label="Navegação principal">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-controller="Produtos" asp-action="Index">
-                    <i class="fas fa-box-open me-2"></i>Sistema de Produtos
+                    <i class="fas fa-boxes me-1" aria-hidden="true"></i>Sistema de Produtos
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" 
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Alternar navegação">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+                
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-white" asp-controller="Produtos" asp-action="Index">
-                                <i class="fas fa-list me-1"></i> Produtos
+                            <a class="nav-link" asp-controller="Produtos" asp-action="Index" 
+                               aria-current="page" id="menu-inicio">
+                                <i class="fas fa-home me-1" aria-hidden="true"></i>Início
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" asp-controller="Produtos" asp-action="Create">
-                                <i class="fas fa-plus-circle me-1"></i> Novo Produto
+                            <a class="nav-link" asp-controller="Produtos" asp-action="Create" id="menu-novo">
+                                <i class="fas fa-plus-circle me-1" aria-hidden="true"></i>Novo Produto
                             </a>
                         </li>
                     </ul>
+                    
+                    <div class="d-flex align-items-center">
+                        <button id="theme-toggle" class="btn btn-outline-light me-2" 
+                                aria-label="Alternar entre tema claro e escuro">
+                            <i id="theme-icon" class="fas fa-moon"></i>
+                            <span class="visually-hidden">Alternar tema</span>
+                        </button>
+                        
+                        <!-- Adicione aqui outros controles de acessibilidade, como contraste aumentado -->
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
-
+    
     <div class="container">
-        <main role="main" class="pb-3">
+        <main id="main-content" role="main" class="pb-3" tabindex="-1">
             @if (TempData["SuccessMessage"] != null)
             {
                 <div class="alert alert-success alert-dismissible fade show" role="alert">
                     @TempData["SuccessMessage"]
-                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Fechar"></button>
                 </div>
             }
             
@@ -76,31 +409,150 @@
             {
                 <div class="alert alert-danger alert-dismissible fade show" role="alert">
                     @TempData["ErrorMessage"]
-                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Fechar"></button>
                 </div>
             }
             
             @RenderBody()
         </main>
     </div>
-
+    
     <footer class="border-top footer text-muted mt-5">
-        <div class="container text-center py-3">
-            &copy; @DateTime.Now.Year - Sistema de Produtos - Desenvolvido como parte do estudo
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center text-md-start">
+                    &copy; @DateTime.Now.Year - Sistema de Produtos - 
+                    <a asp-controller="Home" asp-action="Privacy" class="text-decoration-none">Política de Privacidade</a>
+                </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <span id="page-load-time" class="text-muted small">
+                        Página carregada em @DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss")
+                    </span>
+                </div>
+            </div>
         </div>
     </footer>
-
-    <!-- jQuery (deve vir primeiro) -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     
-    <!-- Bootstrap Bundle with Popper (inclui Popper.js) -->
+    <!-- Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     
-    <!-- jQuery Validation -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
-    
-    <!-- Seus scripts personalizados -->
     @await RenderSectionAsync("Scripts", required: false)
+    
+    <script>
+        // Gerenciamento do tema claro/escuro
+        document.addEventListener('DOMContentLoaded', function() {
+            const themeToggle = document.getElementById('theme-toggle');
+            const themeIcon = document.getElementById('theme-icon');
+            const html = document.documentElement;
+            
+            // Verifica se há uma preferência salva
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            
+            // Aplica o tema salvo
+            if (savedTheme === 'dark') {
+                html.setAttribute('data-bs-theme', 'dark');
+                themeIcon.classList.replace('fa-moon', 'fa-sun');
+                themeToggle.setAttribute('aria-pressed', 'true');
+                themeToggle.setAttribute('aria-label', 'Alternar para tema claro');
+            } else {
+                html.setAttribute('data-bs-theme', 'light');
+                themeIcon.classList.replace('fa-sun', 'fa-moon');
+                themeToggle.setAttribute('aria-pressed', 'false');
+                themeToggle.setAttribute('aria-label', 'Alternar para tema escuro');
+            }
+            
+            // Alterna entre temas
+            themeToggle.addEventListener('click', function() {
+                const isDark = html.getAttribute('data-bs-theme') === 'dark';
+                
+                if (isDark) {
+                    // Muda para tema claro
+                    html.setAttribute('data-bs-theme', 'light');
+                    themeIcon.classList.replace('fa-sun', 'fa-moon');
+                    localStorage.setItem('theme', 'light');
+                    themeToggle.setAttribute('aria-pressed', 'false');
+                    themeToggle.setAttribute('aria-label', 'Alternar para tema escuro');
+                } else {
+                    // Muda para tema escuro
+                    html.setAttribute('data-bs-theme', 'dark');
+                    themeIcon.classList.replace('fa-moon', 'fa-sun');
+                    localStorage.setItem('theme', 'dark');
+                    themeToggle.setAttribute('aria-pressed', 'true');
+                    themeToggle.setAttribute('aria-label', 'Alternar para tema claro');
+                }
+            });
+            
+            // Melhoria para navegação por teclado
+            const mainContent = document.getElementById('main-content');
+            if (mainContent) {
+                // Foca o conteúdo principal quando o link de pular é clicado
+                document.querySelector('.skip-to-content').addEventListener('click', function() {
+                    mainContent.focus();
+                });
+                
+                // Adiciona um evento para focar o conteúdo principal após o carregamento
+                mainContent.focus();
+            }
+            
+            // Adiciona a classe 'was-validated' aos formulários ao enviar
+            const forms = document.querySelectorAll('.needs-validation');
+            Array.from(forms).forEach(form => {
+                form.addEventListener('submit', event => {
+                    if (!form.checkValidity()) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+            
+            // Atualiza o tempo de carregamento da página
+            const pageLoadTime = document.getElementById('page-load-time');
+            if (pageLoadTime) {
+                const now = new Date();
+                const options = { 
+                    day: '2-digit', 
+                    month: '2-digit', 
+                    year: 'numeric', 
+                    hour: '2-digit', 
+                    minute: '2-digit',
+                    second: '2-digit',
+                    hour12: false
+                };
+                pageLoadTime.textContent = `Página carregada em ${now.toLocaleString('pt-BR', options)}`;
+            }
+            
+            // Melhoria para fechar mensagens de alerta com a tecla ESC
+            document.addEventListener('keydown', function(event) {
+                if (event.key === 'Escape') {
+                    const alerts = document.querySelectorAll('.alert-dismissible');
+                    alerts.forEach(alert => {
+                        const closeButton = alert.querySelector('.btn-close');
+                        if (closeButton) {
+                            closeButton.click();
+                        }
+                    });
+                }
+            });
+            
+            // Adiciona suporte a teclado para elementos interativos
+            const interactiveElements = document.querySelectorAll('button, a, input, select, textarea, [tabindex]');
+            interactiveElements.forEach(element => {
+                element.addEventListener('keydown', function(e) {
+                    if ((e.key === 'Enter' || e.key === ' ') && 
+                        (this.tagName === 'DIV' || this.tagName === 'SPAN') && 
+                        this.getAttribute('role') === 'button') {
+                        e.preventDefault();
+                        this.click();
+                    }
+                });
+                
+                // Melhoria para elementos focáveis
+                if (element.hasAttribute('data-bs-toggle') || element.hasAttribute('data-bs-target')) {
+                    element.setAttribute('tabindex', '0');
+                }
+            });
+        });
+    </script>
 </body>
 </html>
