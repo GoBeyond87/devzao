@@ -434,16 +434,30 @@
 
             // Validar preço
             precoInput.addEventListener('input', function(e) {
-                // Remover caracteres não numéricos ou ponto
+                // Remover caracteres não numéricos
                 this.value = this.value.replace(/[^0-9.]/g, '');
 
-                // Limitar a 2 casas decimais
+                // Se já existe um ponto, remover qualquer outro ponto
+                if (this.value.includes('.')) {
+                    // Mantém apenas o primeiro ponto
+                    this.value = this.value.replace(/\.(?=.*\.)/g, '');
+                }
+
+                // Se tem ponto, limita a 9 dígitos antes e 2 após
                 if (this.value.includes('.')) {
                     const partes = this.value.split('.');
+                    if (partes[0].length > 9) {
+                        partes[0] = partes[0].slice(0, 9);
+                    }
                     if (partes[1]?.length > 2) {
                         partes[1] = partes[1].slice(0, 2);
-                        this.value = partes.join('.');
                     }
+                    this.value = partes.join('.');
+                }
+
+                // Se não tem ponto e tem mais de 9 dígitos, limita a 9 dígitos
+                if (!this.value.includes('.') && this.value.length > 9) {
+                    this.value = this.value.slice(0, 9);
                 }
             });
 
