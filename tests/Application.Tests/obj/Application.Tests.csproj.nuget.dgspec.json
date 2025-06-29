@@ -1,40 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\estudo\\devzao\\tests\\Application.Tests\\Application.Tests.csproj": {}
+    "C:\\Users\\plinc\\Documents\\tiago\\devzao\\tests\\Application.Tests\\Application.Tests.csproj": {}
   },
   "projects": {
-    "C:\\estudo\\devzao\\src\\Application\\Application.csproj": {
+    "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\estudo\\devzao\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\estudo\\devzao\\src\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\tisgo\\.nuget\\packages\\",
-        "outputPath": "C:\\estudo\\devzao\\src\\Application\\obj\\",
+        "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\plinc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tisgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\plinc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\estudo\\devzao\\src\\Core\\Core.csproj": {
-                "projectPath": "C:\\estudo\\devzao\\src\\Core\\Core.csproj"
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj"
               }
             }
           }
@@ -84,29 +77,22 @@
         }
       }
     },
-    "C:\\estudo\\devzao\\src\\Core\\Core.csproj": {
+    "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\estudo\\devzao\\src\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\estudo\\devzao\\src\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\tisgo\\.nuget\\packages\\",
-        "outputPath": "C:\\estudo\\devzao\\src\\Core\\obj\\",
+        "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\plinc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tisgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\plinc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -150,40 +136,33 @@
         }
       }
     },
-    "C:\\estudo\\devzao\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\estudo\\devzao\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\estudo\\devzao\\src\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\tisgo\\.nuget\\packages\\",
-        "outputPath": "C:\\estudo\\devzao\\src\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\plinc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tisgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\plinc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\estudo\\devzao\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\estudo\\devzao\\src\\Application\\Application.csproj"
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj"
               },
-              "C:\\estudo\\devzao\\src\\Core\\Core.csproj": {
-                "projectPath": "C:\\estudo\\devzao\\src\\Core\\Core.csproj"
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj"
               }
             }
           }
@@ -255,40 +234,33 @@
         }
       }
     },
-    "C:\\estudo\\devzao\\src\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\estudo\\devzao\\src\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\estudo\\devzao\\src\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\tisgo\\.nuget\\packages\\",
-        "outputPath": "C:\\estudo\\devzao\\src\\WebApi\\obj\\",
+        "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\plinc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tisgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\plinc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\estudo\\devzao\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\estudo\\devzao\\src\\Application\\Application.csproj"
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj"
               },
-              "C:\\estudo\\devzao\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\estudo\\devzao\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -363,46 +335,39 @@
         }
       }
     },
-    "C:\\estudo\\devzao\\tests\\Application.Tests\\Application.Tests.csproj": {
+    "C:\\Users\\plinc\\Documents\\tiago\\devzao\\tests\\Application.Tests\\Application.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\estudo\\devzao\\tests\\Application.Tests\\Application.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\tests\\Application.Tests\\Application.Tests.csproj",
         "projectName": "Application.Tests",
-        "projectPath": "C:\\estudo\\devzao\\tests\\Application.Tests\\Application.Tests.csproj",
-        "packagesPath": "C:\\Users\\tisgo\\.nuget\\packages\\",
-        "outputPath": "C:\\estudo\\devzao\\tests\\Application.Tests\\obj\\",
+        "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\tests\\Application.Tests\\Application.Tests.csproj",
+        "packagesPath": "C:\\Users\\plinc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\tests\\Application.Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tisgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\plinc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\estudo\\devzao\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\estudo\\devzao\\src\\Application\\Application.csproj"
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj"
               },
-              "C:\\estudo\\devzao\\src\\Core\\Core.csproj": {
-                "projectPath": "C:\\estudo\\devzao\\src\\Core\\Core.csproj"
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj"
               },
-              "C:\\estudo\\devzao\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\estudo\\devzao\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\Infrastructure.csproj"
               },
-              "C:\\estudo\\devzao\\src\\WebApi\\WebApi.csproj": {
-                "projectPath": "C:\\estudo\\devzao\\src\\WebApi\\WebApi.csproj"
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\WebApi\\WebApi.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\WebApi\\WebApi.csproj"
               }
             }
           }

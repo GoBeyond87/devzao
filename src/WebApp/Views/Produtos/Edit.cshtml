@@ -93,14 +93,23 @@
                                     <input asp-for="Preco" 
                                            id="preco" 
                                            class="form-control" 
-                                           type="number" 
+                                           type="text" 
                                            step="0.01" 
                                            min="0.01"
-                                           max="999999.99"
-                                           maxlength="9"
+                                           max="999999999.99"
                                            required
                                            aria-required="true"
-                                           aria-describedby="ajuda-preco contador-preco" />
+                                           aria-describedby="ajuda-preco contador-preco" 
+                                           data-val="true" 
+                                           data-val-number="The field Preco must be a number."
+                                           data-val-range="O campo Preco deve ser maior que zero"
+                                           data-val-range-max="999999999.99"
+                                           data-val-range-min="0.01"
+                                           data-val-regex="O campo Preco deve usar ponto como separador decimal e ter no máximo 2 casas decimais"
+                                           data-val-regex-pattern="^[0-9]+(\\.[0-9]{1,2})?$"
+                                           data-val-required="The Preco field is required."
+                                           name="Preco" 
+                                           value="@Model.Preco.ToString("N2").Replace(",", ".")">
                                 </div>
                                 <div class="d-flex justify-content-between">
                                     <div id="ajuda-preco" class="form-text">
@@ -428,12 +437,34 @@
             const precoInput = document.getElementById('preco');
             const quantidadeInput = document.getElementById('quantidade-estoque');
 
-            // Limitar caracteres no campo de preço (9 caracteres)
-            if (precoInput) {
-                precoInput.addEventListener('input', function() {
-                    limitarCaracteres(this, 9);
-                });
-            }
+            // Validar preço
+            precoInput.addEventListener('input', function(e) {
+                // Remover caracteres não numéricos
+                this.value = this.value.replace(/[^0-9.]/g, '');
+
+                // Se já existe um ponto, remover qualquer outro ponto
+                if (this.value.includes('.')) {
+                    // Mantém apenas o primeiro ponto
+                    this.value = this.value.replace(/\.(?=.*\.)/g, '');
+                }
+
+                // Se tem ponto, limita a 9 dígitos antes e 2 após
+                if (this.value.includes('.')) {
+                    const partes = this.value.split('.');
+                    if (partes[0].length > 9) {
+                        partes[0] = partes[0].slice(0, 9);
+                    }
+                    if (partes[1]?.length > 2) {
+                        partes[1] = partes[1].slice(0, 2);
+                    }
+                    this.value = partes.join('.');
+                }
+
+                // Se não tem ponto e tem mais de 9 dígitos, limita a 9 dígitos
+                if (!this.value.includes('.') && this.value.length > 9) {
+                    this.value = this.value.slice(0, 9);
+                }
+            });
 
             // Limitar caracteres no campo de quantidade (6 caracteres)
             if (quantidadeInput) {

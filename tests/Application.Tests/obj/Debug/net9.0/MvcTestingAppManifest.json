@@ -1,6 +1,6 @@
 {
-  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\estudo\\devzao\\src\\Application",
-  "Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\estudo\\devzao\\src\\Core",
-  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\estudo\\devzao\\src\\Infrastructure",
-  "WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\estudo\\devzao\\src\\WebApi"
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application",
+  "Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure",
+  "WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\WebApi"
 }

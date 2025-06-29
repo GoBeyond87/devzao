@@ -86,14 +86,14 @@
                                     <input asp-for="Preco" 
                                            id="preco" 
                                            class="form-control" 
-                                           type="number" 
+                                           type="text" 
                                            step="0.01" 
                                            min="0.01"
-                                           max="999999.99"
-                                           maxlength="9"
+                                           max="999999999.99"
                                            required
                                            aria-required="true"
-                                           aria-describedby="ajuda-preco contador-preco" />
+                                           aria-describedby="ajuda-preco contador-preco"
+                                           pattern="^[0-9]+(\.[0-9]{1,2})?$" />
                                 </div>
                                 <div class="d-flex justify-content-between mt-2" id="contador-container-preco">
                                     <div id="ajuda-preco" class="form-text">
@@ -432,12 +432,20 @@
             const precoInput = document.getElementById('preco');
             const quantidadeInput = document.getElementById('quantidade-estoque');
 
-            // Limitar caracteres no campo de preço (9 caracteres)
-            if (precoInput) {
-                precoInput.addEventListener('input', function() {
-                    limitarCaracteres(this, 9);
-                });
-            }
+            // Validar preço
+            precoInput.addEventListener('input', function(e) {
+                // Remover caracteres não numéricos ou ponto
+                this.value = this.value.replace(/[^0-9.]/g, '');
+
+                // Limitar a 2 casas decimais
+                if (this.value.includes('.')) {
+                    const partes = this.value.split('.');
+                    if (partes[1]?.length > 2) {
+                        partes[1] = partes[1].slice(0, 2);
+                        this.value = partes.join('.');
+                    }
+                }
+            });
 
             // Limitar caracteres no campo de quantidade (6 caracteres)
             if (quantidadeInput) {
