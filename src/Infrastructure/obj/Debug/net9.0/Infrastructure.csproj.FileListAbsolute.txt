@@ -114,12 +114,9 @@ C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
 C:\estudo\devzao\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
-C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
-C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\bin\Debug\net9.0\Application.dll
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\bin\Debug\net9.0\Core.dll
-C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\bin\Debug\net9.0\Application.pdb
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\bin\Debug\net9.0\Core.pdb
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
@@ -131,5 +128,4 @@ C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\obj\Debug\net9.0\Infras
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
-C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
 C:\Users\plinc\Documents\tiago\devzao\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

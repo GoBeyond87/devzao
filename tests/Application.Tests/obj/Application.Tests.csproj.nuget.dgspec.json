@@ -28,6 +28,9 @@
             "projectReferences": {
               "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj": {
                 "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj"
+              },
+              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -116,6 +119,22 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -158,9 +177,6 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Application\\Application.csproj"
-              },
               "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj": {
                 "projectPath": "C:\\Users\\plinc\\Documents\\tiago\\devzao\\src\\Core\\Core.csproj"
               }
@@ -183,35 +199,21 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[9.0.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.6, )"
-            },
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[9.0.6, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.Extensions.Configuration.FileExtensions": {
               "target": "Package",
-              "version": "[9.0.6, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[9.0.6, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -285,6 +287,10 @@
               "target": "Package",
               "version": "[2.10.1, )"
             },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -302,6 +308,10 @@
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
               "version": "[9.0.6, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -400,7 +410,15 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
             "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
               "version": "[9.0.6, )"
             },

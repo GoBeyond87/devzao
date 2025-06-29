@@ -1,0 +1,50 @@
+@page
+@model WebApp.Models.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container-fluid vh-100">
+    <div class="row h-100">
+        <!-- Logo -->
+        <div class="col-md-6 d-flex align-items-center justify-content-center bg-light">
+            <div class="text-center">
+                <h1 class="display-1 fw-bold text-primary">Produtos&Produtos</h1>
+                <p class="lead text-muted">Sistema de Gestão de Produtos</p>
+            </div>
+        </div>
+
+        <!-- Formulário de Login -->
+        <div class="col-md-6 d-flex align-items-center justify-content-center">
+            <div class="w-100">
+                <div class="card shadow">
+                    <div class="card-body p-5">
+                        <h2 class="card-title mb-4 text-center">Login</h2>
+                        <form method="post">
+                            <div asp-validation-summary="All" class="text-danger"></div>
+                            <div class="mb-3">
+                                <label asp-for="Input.Email" class="form-label">Email</label>
+                                <input asp-for="Input.Email" class="form-control" />
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Input.Password" class="form-label">Senha</label>
+                                <input asp-for="Input.Password" class="form-control" />
+                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3 form-check">
+                                <input asp-for="Input.RememberMe" class="form-check-input" />
+                                <label asp-for="Input.RememberMe" class="form-check-label">Lembrar-me</label>
+                            </div>
+                            <button type="submit" class="btn btn-primary w-100">Entrar</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

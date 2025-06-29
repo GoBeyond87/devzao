@@ -20,12 +20,11 @@ namespace Infrastructure.Services
             };
         }
 
-        public async Task<T?> GetAsync<T>(string key) where T : class
+        async Task<T?> ICacheService.GetAsync<T>(string key) where T : class
         {
             if (string.IsNullOrEmpty(key))
                 throw new ArgumentNullException(nameof(key));
 
-                
             var value = await _cache.GetStringAsync(key);
             if (value == null) 
                 return default;
@@ -42,22 +41,21 @@ namespace Infrastructure.Services
             }
         }
 
-        public async Task SetAsync<T>(string key, T value, TimeSpan? expiry = null)
+        async Task ICacheService.SetAsync<T>(string key, T value, TimeSpan? expiry) where T : class
         {
             var options = expiry.HasValue 
                 ? new DistributedCacheEntryOptions { AbsoluteExpirationRelativeToNow = expiry }
                 : _defaultOptions;
 
-            var json = JsonSerializer.Serialize(value);
-            await _cache.SetStringAsync(key, json, options);
+            await _cache.SetStringAsync(key, JsonSerializer.Serialize(value), options);
         }
 
-        public async Task RemoveAsync(string key)
+        Task ICacheService.RemoveAsync(string key)
         {
-            await _cache.RemoveAsync(key);
+            return _cache.RemoveAsync(key);
         }
 
-        public async Task<bool> ExistsAsync(string key)
+        async Task<bool> ICacheService.ExistsAsync(string key)
         {
             var value = await _cache.GetStringAsync(key);
             return value != null;

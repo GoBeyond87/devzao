@@ -3,6 +3,7 @@ using Application.Mappings;
 using Application.Services;
 using Core.Interfaces;
 using Infrastructure.Data;
+using Microsoft.Extensions.Caching.Distributed;
 using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using System.Globalization;
@@ -89,6 +90,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
 builder.Services.AddScoped<IProdutoService, ProdutoService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 // Configuração do Swagger/OpenAPI
 builder.Services.AddEndpointsApiExplorer();
@@ -96,24 +98,30 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
     {
-        Title = "API Kafka Test",
+        Title = "Devzao API",
         Version = "v1",
-        Description = "API para teste de integração com Kafka",
-        Contact = new Microsoft.OpenApi.Models.OpenApiContact
-        {
-            Name = "Suporte",
-            Email = "suporte@empresa.com"
-        }
+        Description = "API de Produtos e Autenticação"
     });
 
-    // Habilita anotações XML
-    var xmlFile = $"{System.Reflection.Assembly.GetExecutingAssembly().GetName().Name}.xml";
-    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
-    
-    if (File.Exists(xmlPath))
+    // Adiciona o suporte para tokens JWT
+    var securityScheme = new Microsoft.OpenApi.Models.OpenApiSecurityScheme
     {
-        c.IncludeXmlComments(xmlPath);
-    }
+        Name = "Authorization",
+        Type = Microsoft.OpenApi.Models.SecuritySchemeType.ApiKey,
+        In = Microsoft.OpenApi.Models.ParameterLocation.Header,
+        Description = "Por favor, insira o token JWT com o prefixo 'Bearer'. Exemplo: 'Bearer your-token-here'",
+        Scheme = "Bearer"
+    };
+    c.AddSecurityDefinition("Bearer", securityScheme);
+
+    var securityRequirement = new Microsoft.OpenApi.Models.OpenApiSecurityRequirement
+    {
+        { securityScheme, new[] { "Bearer" } }
+    };
+    c.AddSecurityRequirement(securityRequirement);
+
+    // Adiciona descrição para os endpoints de autenticação
+    c.OperationFilter<SecurityRequirementsOperationFilter>();
 });
 
 // Configuração do CORS
@@ -150,6 +158,16 @@ if (app.Environment.IsDevelopment())
 
 app.MapGet("/", () => Results.Redirect("/swagger"));
 
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Devzao API v1");
+        c.RoutePrefix = string.Empty; // Coloca o Swagger na raiz
+    });
+}
+
 app.UseHttpsRedirection();
 app.UseCors("AllowAll");
 app.UseAuthorization();
@@ -161,14 +179,20 @@ try
     using var scope = app.Services.CreateScope();
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<ApplicationDbContext>();
+    var redis = services.GetRequiredService<IDistributedCache>();
     
     Console.WriteLine("Aplicando migrações...");
     context.Database.Migrate();
     Console.WriteLine("Migrações aplicadas com sucesso!");
+
+    // Inicializa os dados
+    Console.WriteLine("Inicializando dados do banco...");
+    await DataInitializer.InitializeAsync(context, redis);
+    Console.WriteLine("Dados do banco inicializados com sucesso!");
 }
 catch (Exception ex)
 {
-    Console.WriteLine($"Erro ao aplicar migrações: {ex.Message}");
+    Console.WriteLine($"Erro ao inicializar o banco: {ex.Message}");
     throw;
 }
 

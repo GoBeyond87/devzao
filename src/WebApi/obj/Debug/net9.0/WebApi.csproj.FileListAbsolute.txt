@@ -1235,6 +1235,8 @@ C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Confluent.Kafka.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Humanizer.dll
+C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
@@ -1253,16 +1255,10 @@ C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Enti
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
-C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\plinc\Documents\tiago\devzao\src\WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll

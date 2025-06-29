@@ -66,8 +66,10 @@ C:\estudo\devzao\src\Core\obj\Debug\net9.0\refint\Core.dll
 C:\estudo\devzao\src\Core\obj\Debug\net9.0\Core.pdb
 C:\estudo\devzao\src\Core\obj\Debug\net9.0\ref\Core.dll
 C:\Users\plinc\Documents\tiago\devzao\src\Core\bin\Debug\net9.0\Core.deps.json
+C:\Users\plinc\Documents\tiago\devzao\src\Core\bin\Debug\net9.0\Core.runtimeconfig.json
 C:\Users\plinc\Documents\tiago\devzao\src\Core\bin\Debug\net9.0\Core.dll
 C:\Users\plinc\Documents\tiago\devzao\src\Core\bin\Debug\net9.0\Core.pdb
+C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
 C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
 C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
@@ -76,4 +78,5 @@ C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\Core.sourcelink.
 C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\Core.dll
 C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\refint\Core.dll
 C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\Core.pdb
+C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
 C:\Users\plinc\Documents\tiago\devzao\src\Core\obj\Debug\net9.0\ref\Core.dll

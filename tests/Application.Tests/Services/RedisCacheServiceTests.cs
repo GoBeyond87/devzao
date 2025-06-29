@@ -11,9 +11,15 @@ using Xunit;
 
 namespace Application.Tests.Services
 {
+    class TestObject
+    {
+        public int Id { get; set; }
+        public required string Name { get; set; }
+    }
+
     public class RedisCacheServiceTests
     {
-        private readonly RedisCacheService _cacheService;
+        private readonly ICacheService _cacheService;
         private readonly IDistributedCache _distributedCache;
         private readonly Mock<IDistributedCache> _mockDistributedCache;
         private readonly string _testKey = "test_key";
@@ -32,26 +38,33 @@ namespace Application.Tests.Services
         [Fact]
         public async Task SetAsync_WhenCalled_StoresValueInCache()
         {
+            // Arrange
+            var value = new TestObject { Id = 1, Name = "Test" };
+            
             // Act
-            await _cacheService.SetAsync(_testKey, _testValue);
+            await _cacheService.SetAsync(_testKey, value, default);
             
             // Assert
-            var storedValue = await _distributedCache.GetStringAsync(_testKey);
+            var storedValue = await _cacheService.GetAsync<TestObject>(_testKey);
             Assert.NotNull(storedValue);
-            Assert.Equal(JsonSerializer.Serialize(_testValue), storedValue);
+            Assert.Equal(value.Id, storedValue.Id);
+            Assert.Equal(value.Name, storedValue.Name);
         }
 
         [Fact]
         public async Task GetAsync_WhenValueExists_ReturnsValue()
         {
             // Arrange
-            await _cacheService.SetAsync(_testKey, _testValue);
+            var value = new TestObject { Id = 1, Name = "Test" };
+            await _cacheService.SetAsync(_testKey, value, default);
             
             // Act
-            var result = await _cacheService.GetAsync<string>(_testKey);
+            var result = await _cacheService.GetAsync<TestObject>(_testKey);
             
             // Assert
-            Assert.Equal(_testValue, result);
+            Assert.NotNull(result);
+            Assert.Equal(value.Id, result.Id);
+            Assert.Equal(value.Name, result.Name);
         }
 
         [Fact]
@@ -68,7 +81,7 @@ namespace Application.Tests.Services
         public async Task RemoveAsync_WhenCalled_RemovesValueFromCache()
         {
             // Arrange
-            await _cacheService.SetAsync(_testKey, _testValue);
+            await _cacheService.SetAsync(_testKey, _testValue, default);
             
             // Act
             await _cacheService.RemoveAsync(_testKey);
@@ -82,7 +95,7 @@ namespace Application.Tests.Services
         public async Task ExistsAsync_WhenKeyExists_ReturnsTrue()
         {
             // Arrange
-            await _cacheService.SetAsync(_testKey, _testValue);
+            await _cacheService.SetAsync(_testKey, _testValue, default);
             
             // Act
             var exists = await _cacheService.ExistsAsync(_testKey);

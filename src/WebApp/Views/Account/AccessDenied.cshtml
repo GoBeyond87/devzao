@@ -1,0 +1,15 @@
+@page
+@{
+    ViewData["Title"] = "Acesso Negado";
+}
+
+<div class="container-fluid vh-100">
+    <div class="row h-100 align-items-center justify-content-center">
+        <div class="col-md-6 text-center">
+            <h1 class="display-1 text-danger">403</h1>
+            <h2 class="mb-4">Acesso Negado</h2>
+            <p class="lead">Você não tem permissão para acessar esta página.</p>
+            <a asp-page="/Account/Login" class="btn btn-primary">Voltar para Login</a>
+        </div>
+    </div>
+</div>

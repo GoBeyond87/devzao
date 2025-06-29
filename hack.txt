@@ -29,7 +29,7 @@ dotnet run --project src/WebApp
 ____________________________________
 >>> Abra o Docker
 docker-compose down
-dotnet clean
+dotnet clean 
 dotnet restore
 docker-compose up -d
 docker-compose ps
@@ -39,4 +39,7 @@ dotnet run --project src/WebApi
 >>> outro terminal
 dotnet run --project src/WebApp
 
+teste@devzao.com
+123456
 
+docker-compose down && dotnet clean && dotnet restore && docker-compose up -d && docker-compose ps && dotnet build && dotnet test && dotnet run --project src/WebApi
